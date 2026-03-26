@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Versión Base de Jassiel
+=======
+Versión Base
+>>>>>>> 30649a2e7a7be208bb85ee1d9ba96e3d868ae08e
